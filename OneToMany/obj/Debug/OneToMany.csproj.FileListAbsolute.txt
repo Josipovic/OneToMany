@@ -1,0 +1,12 @@
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\OneToMany\OneToMany\bin\Debug\OneToMany.exe.config
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\OneToMany\OneToMany\bin\Debug\OneToMany.exe
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\OneToMany\OneToMany\bin\Debug\OneToMany.pdb
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\OneToMany\OneToMany\bin\Debug\EntityFramework.dll
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\OneToMany\OneToMany\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\OneToMany\OneToMany\bin\Debug\EntityFramework.xml
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\OneToMany\OneToMany\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\OneToMany\OneToMany\obj\Debug\OneToMany.csprojAssemblyReference.cache
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\OneToMany\OneToMany\obj\Debug\OneToMany.csproj.CoreCompileInputs.cache
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\OneToMany\OneToMany\obj\Debug\OneToMany.csproj.CopyComplete
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\OneToMany\OneToMany\obj\Debug\OneToMany.exe
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\OneToMany\OneToMany\obj\Debug\OneToMany.pdb
